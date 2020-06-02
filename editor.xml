@@ -4,7 +4,7 @@
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
   </component>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="14" />
+    <option name="FONT_SIZE" value="20" />
     <option name="FONT_FAMILY" value="Consolas" />
     <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei UI" />
   </component>
