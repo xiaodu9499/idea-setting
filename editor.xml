@@ -6,7 +6,7 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Consolas" />
-    <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei UI" />
+    <option name="SECONDARY_FONT_FAMILY" value="Microsoft YaHei" />
   </component>
   <component name="EditorSettings">
     <option name="TOOLTIPS_DELAY_MS" value="100" />
